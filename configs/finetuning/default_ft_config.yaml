@@ -29,7 +29,7 @@ group_by_length: false
 logging_strategy: "steps"
 remove_unused_columns: false
 lora_r: 64
-lora_alpha: 16
+lora_alpha: 2
 lora_modules: "all"
 double_quant: true
 quant_type: "nf4"
